@@ -2,8 +2,8 @@
 ---------
 # جیلا ایوبی
 - [GitHub](https://github.com/jilaayoubi)
-- [Resume](https://royasafari.github.io/jilaayoubiresume/) 
-- [SOP](https://royasafari.github.io/jilaayoubisop/)
+- [Resume](https://jilaayoubi.github.io/jilaayoubiresume/) 
+- [SOP](https://jilaayoubi.github.io/jilaayoubisop/)
 - [Readme](https://github.com/jilaayoubi/PNU_3991_AR/)
 ---------------
  
